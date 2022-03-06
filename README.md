@@ -8,5 +8,5 @@
 ### Installation
 
 - Download repository locally
-- Run npm i inside project folder
-- Run npm start to start application on http://localhost:3000/
+- Run ```npm i``` inside project folder
+- Run ```npm start``` to start application on http://localhost:3000/
